@@ -100,3 +100,5 @@ Use React when:
 * You are building complex front-end applications
 ---
 
+## Better prepare first 
+![Watch js basics](https://youtu.be/m55PTVUrlnA)
